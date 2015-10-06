@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsUI", "WinFormsUI\WinFormsUI.csproj", "{C25F40B9-AD8A-4F9C-844F-FBB1CFD2A30C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generator", "Generator\Generator.csproj", "{D401832A-A6DD-499C-8F01-902A6F391E5B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExternalMergeSort", "ExternalMergeSort\ExternalMergeSort.csproj", "{70AA254B-BBB1-4C54-8771-DBBC5E105F2A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C25F40B9-AD8A-4F9C-844F-FBB1CFD2A30C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C25F40B9-AD8A-4F9C-844F-FBB1CFD2A30C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C25F40B9-AD8A-4F9C-844F-FBB1CFD2A30C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C25F40B9-AD8A-4F9C-844F-FBB1CFD2A30C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D401832A-A6DD-499C-8F01-902A6F391E5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D401832A-A6DD-499C-8F01-902A6F391E5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D401832A-A6DD-499C-8F01-902A6F391E5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D401832A-A6DD-499C-8F01-902A6F391E5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70AA254B-BBB1-4C54-8771-DBBC5E105F2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70AA254B-BBB1-4C54-8771-DBBC5E105F2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70AA254B-BBB1-4C54-8771-DBBC5E105F2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70AA254B-BBB1-4C54-8771-DBBC5E105F2A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
